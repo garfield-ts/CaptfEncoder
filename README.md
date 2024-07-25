@@ -1,19 +1,23 @@
 CaptfEncoder V1
 ================================
 
-[English](https://github.com/guyoung/CaptfEncoder/blob/master/CaptfEncoder-V1/README.md) | [中文](https://github.com/guyoung/CaptfEncoder/blob/master/CaptfEncoder-V1/README-zh.md)
+[English](https://github.com/garfield-ts/CaptfEncoder/blob/main/README.md) | [中文](https://github.com/garfield-ts/CaptfEncoder/blob/main/README-zh.md) 
+
+Fork from [CaptfEncoder V1.3.0](https://github.com/guyoung/CaptfEncoder/tree/master/CaptfEncoder-V1) 
 
 ---
 
 Captfencoder is an extensible cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, special coding, miscellaneous tools, and aggregating all kinds of online tools.
 
-![CaptfEncoder Screenshot](https://github.com/guyoung/CaptfEncoder/raw/master/CaptfEncoder-V1/screenshot/captfencoder-screenshot-1.png)
+![CaptfEncoder Screenshot](https://github.com/garfield-ts/CaptfEncoder/blob/main/screenshot/captfencoder-screenshot-1.png?raw=true)
+
+Since the UI of this tool has significant changes since version 2.0, a copy of the last version 1 is being retained for future reference. The original link to the project can be found at the beginning of the article, and all copyrights belong to the original author @guyoung .
 
 ## Use
 
- * git clone https://github.com/guyoung/CaptfEncoder.git
- * cd CaptfEncoder-V1
- * npm start
+ * git clone https://github.com/garfield-ts/CaptfEncoder.git
+ * cd CaptfEncoder
+ * cnpm install && cnpm start
 
 ## Support operating system
 
@@ -117,15 +121,9 @@ Captfencoder is an extensible cross platform network security tool suite, provid
 
 ## Project website
 
- * <https://github.com/guyoung/CaptfEncoder>
+ * Original: <https://github.com/guyoung/CaptfEncoder>
+ * Fork to: <https://github.com/garfield-ts/CaptfEncoder>
 
 ## Download software
 
  * Baidu network disk <https://pan.baidu.com/s/1q2N1w44bvYIXLe5gCI5oKA> Password：k5b9
-
-
-------------------------------------------------
-
-**WeChat official account for latest news**
-
-![WeChat official account](https://mmbiz.qlogo.cn/mmbiz_jpg/5IMiaY073fa7zxH6f5q5EticlwZPsYQtUnpYHspNiczmNyjtCXnR7LAmvpstK4EycfzIQkciboLh1qtWRcCibEPuDhA/0?wx_fmt=jpeg)

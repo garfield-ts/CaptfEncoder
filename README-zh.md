@@ -1,14 +1,16 @@
 CaptfEncoder V1
 ================================
 
-Fork from [CaptfEncoder V1.3.0](https://github.com/guyoung/CaptfEncoder/tree/master/CaptfEncoder-V1) 
+[English](https://github.com/garfield-ts/CaptfEncoder/blob/main/README.md) | [中文](https://github.com/garfield-ts/CaptfEncoder/blob/main/README-zh.md) 
+
+Fork 自 [CaptfEncoder V1.3.0](https://github.com/guyoung/CaptfEncoder/tree/master/CaptfEncoder-V1) 
 
 ---
 
 
 CaptfEncoder 是一款跨平台网络安全工具套件，提供网络安全相关编码转换、古典密码、密码学、特殊编码等工具，并聚合各类在线工具。
 
-![CaptfEncoder Screenshot](https://github.com/guyoung/CaptfEncoder/raw/master/CaptfEncoder-V1/screenshot/captfencoder-screenshot-1.png)
+![CaptfEncoder Screenshot](https://github.com/garfield-ts/CaptfEncoder/blob/main/screenshot/captfencoder-screenshot-1.png?raw=true)
 
 因为该工具自 2.0 版本开始界面大改，因此保留一份最后一版的 V1 版本，以便于以后查找。项目原始链接见文章开头，一切版权归属于原作者 @guyoung 。
 
