@@ -15,9 +15,21 @@ Since the UI of this tool has significant changes since version 2.0, a copy of t
 
 ## Use
 
- * git clone https://github.com/garfield-ts/CaptfEncoder.git
- * cd CaptfEncoder
- * cnpm install && cnpm start
+```shell
+git clone https://github.com/garfield-ts/CaptfEncoder.git
+cd CaptfEncoder
+cnpm install && cnpm start
+```
+
+## Pack(macOS App)
+
+```shell
+git clone https://github.com/garfield-ts/CaptfEncoder.git
+cd CaptfEncoder
+npm run pack-mac2
+
+# App is in `pkgs/CaptfEncoder-darwin-x64/CaptfEncoder.app`
+```
 
 ## Support operating system
 
