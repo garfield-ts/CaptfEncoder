@@ -16,9 +16,21 @@ CaptfEncoder 是一款跨平台网络安全工具套件，提供网络安全相�
 
 ## 使用
 
- * git clone https://github.com/garfield-ts/CaptfEncoder.git
- * cd CaptfEncoder
- * cnpm install && cnpm start
+```shell
+git clone https://github.com/garfield-ts/CaptfEncoder.git
+cd CaptfEncoder
+cnpm install && cnpm start
+```
+
+## 打包(macOS App)
+
+```shell
+git clone https://github.com/garfield-ts/CaptfEncoder.git
+cd CaptfEncoder
+npm run pack-mac2
+
+# App 位于 `pkgs/CaptfEncoder-darwin-x64/CaptfEncoder.app`
+```
 
 ## 支持操作系统
 
